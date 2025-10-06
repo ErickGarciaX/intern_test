@@ -1,6 +1,4 @@
 # intern_test
-Prueba de SQL 
-# intern_test
 Descarga el archivo "test.sql"  y usalo para realizar los ejecicios presentados:
 -Crea una tabla temporal que conecte la venta de producto con los clientes. 
   La tabla debe contener: El Id de la venta (definido como columna de identidad), Id de producto, Id de cliente, Fecha de la compra, la cantidad comprada y validar las claves foraneas correspondientes
